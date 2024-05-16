@@ -1,7 +1,7 @@
 # STLB-GN: Spatio-Temporal Dual Graph Network with Learnable Bases
 
 This is a PyTorch implementation of STLB-GN.
-
+![STLB-GN](https://github.com/linskyy/STLB-GN/blob/main/model_architecture.png)
 ## Folders
 
 * configs: Configurations for training and model specifications tailored to individual datasets.
